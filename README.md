@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Biggs89
-- 👀 I’m interested in ...haven my device umlickef
+- 👀 I’m interested in ...haven my device unlocked
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...better device handling
 - 📫 How to reach me ...drewholman2021@gmail.com 
